@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -la .         # List current directory
-ls -la ..        # List parent directory
-ls -la /boot     # List /boot directory
+ls -la . .. /boot
